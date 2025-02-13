@@ -73,4 +73,10 @@ end
 
 
   gem 'active_hash'
+<<<<<<< Updated upstream
 
+=======
+  マスターブランチ作業
+  コンフリクトA
+コンフリクトBの作業
+>>>>>>> Stashed changes
