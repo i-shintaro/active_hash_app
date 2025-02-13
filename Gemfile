@@ -73,3 +73,4 @@ end
 
   gem 'active_hash'
   マスターブランチ作業
+  コンフリクトA
