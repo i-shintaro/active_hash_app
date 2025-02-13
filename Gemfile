@@ -71,5 +71,4 @@ group :test do
   gem "webdrivers"
 end
 
-  gem 'active_hash'
-  マスターブランチ作業
+
